@@ -15,7 +15,6 @@ const db = mongoose.connection;
 db.once("disconnected", () => {
   console.log("Disconnected from MongoDB!");
 });
-// db.on("connected", () => console.log("Connected to pizzaData"));
 db.on("error", (err) => console.log(`connection error: ${err}`));
 
 export default db;

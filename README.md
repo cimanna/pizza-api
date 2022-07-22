@@ -1,0 +1,22 @@
+
+# Description
+
+Pizza nutrition API with images 
+![alt text](https://edamam-product-images.s3.amazonaws.com/web-img/2e6/2e612418cd21ef73e2ff2c4ce91149cc.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAgaCXVzLWVhc3QtMSJGMEQCIGIGrPX0KFXiCTlOz9AaUipndljVmiBa6pevkbjsQdIyAiB%2FUNzpcaz%2FcmXWPzefXx%2BgbN%2FRSBZZAEMSKtfeBgoLcyrSBAhREAAaDDE4NzAxNzE1MDk4NiIMOnGAyU6r1i8UFY9FKq8EJwDwln3pfN8dzlF8wkQC0Wt3i1KjlM2AWDrDDCGPX3h7Y0HkP8TBGPzHZNy7Qsy2a0bxjYNijdx30glQa604uTN%2BVrdXqJRBYhK7XAFLvvybyszjuP7h%2B0IBkEzU8DRgNnwE9aU2nwe%2BrRqdlm1ecMeUt2aRwqivp8eGu3OOQMgwrkn2jcnWS8i3Fttq3QSabMD4sFwkY0DW3lJY2ebhuFZ3wS9DYEJrYzmclo1eRifHtUlLIX0d7Lu6%2BPjOFTvnyUAAIKFXZq8J1JEIrW5ACE4u0qoh9aHA%2Bl2TYTESKIlRsGPcuIXgo%2FD8MRVmEgy842uUGmpMDFvAa2WaEkfjGwmO8nbaxV9BDN5I6P1McF%2F4ivC34Ih26KjECjc%2F0IWmDEbI%2Bo6toDZjTp%2BVi8M5wRSPUduFMg4Qf6kr%2Bbh4XrblQn3wLuni66P2u2glviUJfi6yor98wquasHtsj4y9udZdLOy%2BdvpsFiPdH69dUByOjcK4EZ3M%2F3kqi%2F0%2BX0%2F%2BxeqBEpJ8UKeRaRk5bMyTFNiYPcmhvHnvv12gFgbBM%2Fheu2l4BCxEGPzcKfe%2BlofDJ7m8FlZsNTDCjGOYzw1TCblAGq0yzpO751QnvgPpfqfiSCExtbPn4In6mZjxpWqbdR60aZ%2FcI23%2BhFk7NLfSR0in6Uuk7tErQxoPAUpF0ZIjZVP9hzqIqYtKby4k8kbmoBErDLB%2BYuSCPBdf%2Bn150MfmJ2ehsEUjkBdcba5WnjDUzOeWBjqqAXQNcaaqFVt%2FExgrbEh5gHw6%2BIRiU0QprWeYTIJtTNPx1znYJ8hGhpfyrxi2OMb%2FF9ogTZV2RrypakjF0kB4tnpmQVoLbZcmfIWk825z8yQRmSDCrVNFJJ3mIQBTJY0qIJOQ5BnjbSaXOacHXu5PGynx3l8VQfFo8vIX4%2BIz%2FjUeA1HcEvu6BAcMg4F155bCF73itL3oF3%2BZxEJM9UBgpRttsrrPDKhvOR%2Bl&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220722T012756Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFDNAS7WWN%2F20220722%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=99d8baa307d251a302642a24fc381fcfedcb9847ec396261a80679c491a31429)
+
+# Links
+
+Git  <https://cimanna.github.io/health-app/>
+Heroku <https://git.heroku.com/pizza-api-christine.git>
+
+
+# Pizza Routes
+
+-Get all pizzas: GET /all
+-Get one pizza by ID: GET /:id
+-Create pizza: POST /
+-Update pizza: PUT /:id
+-Delete pizza: DELETE /:id
+
+
+
